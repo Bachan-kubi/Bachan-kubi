@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://bachankubi-portfolio.netlify.app/](https://bachankubi-portfolio.netlify.app/)
-
 - 💬 Ask me about **Front-End Developer, MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
