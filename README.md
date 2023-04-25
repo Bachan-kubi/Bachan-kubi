@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachan-kubi&label=Profile%20views&color=0e75b6&style=flat" alt="bachan-kubi" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript and MySQL**
 
 - 💬 Ask me about **Front-End Developer, MERN Stack**
 
